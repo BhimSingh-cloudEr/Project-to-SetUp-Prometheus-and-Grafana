@@ -1,9 +1,18 @@
 # Project to SetUp Prometheus and Grafana
 
+### Virtual Machine 
+	![Image](https://github.com/user-attachments/assets/f3d94379-a1ab-41b8-b191-3a789d6470db)
 ### Application Access through ip_address_of_main_vm:8080
+	![Image](https://github.com/user-attachments/assets/2ac3f12c-0b5c-44eb-bbe3-f406a45ebca9)
 ### Node Exporter Tool Access through ip_address_of_main_vm:9100
+	![Image](https://github.com/user-attachments/assets/bbb148b5-daf0-4d44-a238-fe8578565efa)
 ### Blackbox Prometheus Tool Access through ip_address_of_grafana_vm:9115	
+	![Image](https://github.com/user-attachments/assets/913dd381-f73b-46b4-a2cc-83d2c6ae697c)
 ### Grafana Tool Access through ip_address_of_grafana_vm:3000
+	![Image](https://github.com/user-attachments/assets/a2dfa0bc-631b-40c5-ae87-1f6fd33662f1)
+### CLI Visualization
+	![Image](https://github.com/user-attachments/assets/fe9df5ae-1dbe-4425-b36f-b9834fb99789)
+	![Image](https://github.com/user-attachments/assets/ac083174-9753-426a-bceb-6633101626d1)
 
 ## Prerequisites Tools  And these are the command which are run on Main instance
 	--> Lunch 2 Instances of t2.medium size
